@@ -1,0 +1,322 @@
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\ApplicationInsights.config
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\roslyn\csc.exe
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\roslyn\System.Collections.Immutable.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\roslyn\vbc.exe
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\roslyn\VBCSCompiler.exe
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\roslyn\VBCSCompiler.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\SystemKnowledgeWebForms.dll.config
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\SystemKnowledgeWebForms.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\SystemKnowledgeWebForms.pdb
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Antlr3.Runtime.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\EntityFramework.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\EntityFramework.SqlServer.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.AI.Web.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.AI.WindowsServer.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.ApplicationInsights.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.Owin.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.Google.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.Web.Infrastructure.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Newtonsoft.Json.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Owin.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\System.Web.Optimization.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\System.Web.Providers.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\WebGrease.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.AI.Web.xml
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.AI.WindowsServer.xml
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.ApplicationInsights.xml
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\System.Web.Optimization.xml
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Antlr3.Runtime.pdb
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Newtonsoft.Json.xml
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\EntityFramework.xml
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\EntityFramework.SqlServer.xml
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\System.Web.Providers.xml
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.Owin.xml
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.xml
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.Google.xml
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\obj\Debug\SystemKnowledgeWebForms.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\obj\Debug\SystemKnowledgeWebForms.dll
+c:\users\hp\documents\visual studio 2015\Projects\SystemKnowledgeWebForms\SystemKnowledgeWebForms\obj\Debug\SystemKnowledgeWebForms.pdb
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\ApplicationInsights.config
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\roslyn\csc.exe
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\roslyn\System.Collections.Immutable.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\roslyn\System.Reflection.Metadata.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\roslyn\vbc.exe
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\roslyn\VBCSCompiler.exe
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\roslyn\VBCSCompiler.exe.config
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\SystemKnowledgeWebForms.dll.config
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\SystemKnowledgeWebForms.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\SystemKnowledgeWebForms.pdb
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Antlr3.Runtime.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\AspNet.ScriptManager.bootstrap.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\AspNet.ScriptManager.jQuery.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\EntityFramework.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\EntityFramework.SqlServer.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AI.Agent.Intercept.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AI.DependencyCollector.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AI.Web.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AI.WindowsServer.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.ApplicationInsights.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AspNet.Identity.Core.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.Cookies.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.Facebook.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.Google.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.OAuth.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.Twitter.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.ScriptManager.WebForms.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Web.Infrastructure.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Newtonsoft.Json.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Owin.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\System.Web.Optimization.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\System.Web.Providers.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\WebGrease.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AI.DependencyCollector.xml
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AI.Web.xml
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AI.WindowsServer.xml
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.ApplicationInsights.xml
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\System.Web.Optimization.xml
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Antlr3.Runtime.pdb
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Newtonsoft.Json.xml
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\EntityFramework.xml
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\EntityFramework.SqlServer.xml
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AspNet.Identity.Core.xml
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\System.Web.Providers.xml
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.xml
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.xml
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.Facebook.xml
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.Cookies.xml
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.Google.xml
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.Twitter.xml
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\students\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.OAuth.xml
+E:\students\Knowledge\SystemKnowledgeWebForms\obj\Debug\SystemKnowledgeWebForms.csproj.CoreCompileInputs.cache
+E:\students\Knowledge\SystemKnowledgeWebForms\obj\Debug\SystemKnowledgeWebForms.csproj.CopyComplete
+E:\students\Knowledge\SystemKnowledgeWebForms\obj\Debug\SystemKnowledgeWebForms.dll
+E:\students\Knowledge\SystemKnowledgeWebForms\obj\Debug\SystemKnowledgeWebForms.pdb
+E:\students\Knowledge\SystemKnowledgeWebForms\obj\Debug\SystemKnowledgeWebForms.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\ApplicationInsights.config
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\SystemKnowledgeWebForms.dll.config
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\SystemKnowledgeWebForms.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\SystemKnowledgeWebForms.pdb
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\EntityFramework.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AI.Web.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Owin.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\System.Web.Providers.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\WebGrease.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AI.Web.xml
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\EntityFramework.xml
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\System.Web.Providers.xml
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.xml
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.xml
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\obj\Debug\SystemKnowledgeWebForms.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\obj\Debug\SystemKnowledgeWebForms.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\obj\Debug\SystemKnowledgeWebForms.csproj.CopyComplete
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\obj\Debug\SystemKnowledgeWebForms.dll
+C:\Users\HP\Desktop\Knowledge\SystemKnowledgeWebForms\obj\Debug\SystemKnowledgeWebForms.pdb
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\ApplicationInsights.config
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\SystemKnowledgeWebForms.dll.config
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\SystemKnowledgeWebForms.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\SystemKnowledgeWebForms.pdb
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\EntityFramework.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AI.Web.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Owin.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\System.Web.Providers.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\WebGrease.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AI.Web.xml
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\EntityFramework.xml
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\System.Web.Providers.xml
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.xml
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.xml
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\obj\Debug\SystemKnowledgeWebForms.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\obj\Debug\SystemKnowledgeWebForms.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\obj\Debug\SystemKnowledgeWebForms.csproj.CopyComplete
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\obj\Debug\SystemKnowledgeWebForms.dll
+C:\Users\HP\Desktop\Розробка та підтримка веб-застосувань\Knowledge\SystemKnowledgeWebForms\obj\Debug\SystemKnowledgeWebForms.pdb
